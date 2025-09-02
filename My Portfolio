@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Petchimuthu M - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">💎</div>
+    <h1>PETCHIMUTHU M</h1>
+    <p>"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill ✨💪🚀</p>
+    <nav>
+      <a href="#about">ABOUT ME</a>
+      <a href="#projects">PROJECTS</a>
+      <a href="#certifications">CERTIFICATIONS</a>
+      <a href="#contact">CONTACT</a>
+      <a href="resume.pdf" target="_blank">RESUME</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm Petchimuthu M, a Data Analyst passionate about Python, SQL, Excel, and Data Visualization tools.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>List of projects will go here...</p>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <p>Certification details will go here...</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: yourname@email.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">View Profile</a></p>
+    <p>GitHub: <a href="https://github.com/petchimuthum1504" target="_blank">View GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>© Portfolio. Design: Petchimuthu.</p>
+  </footer>
+</body>
+</html>
